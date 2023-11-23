@@ -12,3 +12,6 @@ Guest login yapabilirsiniz ve error esnasında error mesajını görebilirsiniz,
 Kullandığım Paket(ler)
 - Firebase Auth
 - Firebase Core
+
+https://user-images.githubusercontent.com/103539896/285238338-f8d9fee4-cf02-4f61-ae88-66dfd37a134d.png
+https://user-images.githubusercontent.com/103539896/285238329-43f8585e-a590-40d6-9ddc-4dabba75fdc6.png
